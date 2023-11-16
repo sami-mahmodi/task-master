@@ -1,4 +1,3 @@
-// pages/index.tsx
 'use client'
 import React, { useState } from 'react';
 import Head from 'next/head';
@@ -29,10 +28,10 @@ const Home: React.FC = () => {
         <meta name="description" content="Simple todo app with Next.js, Tailwind CSS, and TypeScript" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-<div className="  bg-teal-100 min-h-screen flex justify-center">
+<div className="  bg-slate-100 min-h-screen flex justify-center">
     <div className='w-1/2  p-24'>
 
-      <h1 className="text-3xl font-bold mb-12 text-center text-teal-900">Pro Task</h1>
+      <h1 className="text-3xl font-bold mb-12 text-center text-black">Pro Task</h1>
 
       <TodoForm addTodo={addTodo} />
       <TodoList todos={todos} deleteTodo={deleteTodo} />
