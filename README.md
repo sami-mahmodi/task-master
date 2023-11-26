@@ -2,7 +2,8 @@
 
 A web application built with Next.js, TypeScript, and Tailwind CSS.
 
-![image](https://github.com/sami-mahmodi/task-master/assets/113135377/9773f782-ff2f-44a7-80d3-e0d271407935)
+![image](https://github.com/sami-mahmodi/task-master/assets/113135377/613a2464-3b62-4b1a-83db-78ad268d0cbc)
+
 
 
 ## Table of Contents
