@@ -2,7 +2,7 @@
 
 A web application built with Next.js, TypeScript, and Tailwind CSS.
 
-![image](https://github.com/sami-mahmodi/todo-application/assets/113135377/729d3ee3-075d-4191-80fe-93701f9d3fc3)
+![image](https://github.com/sami-mahmodi/task-master/assets/113135377/9773f782-ff2f-44a7-80d3-e0d271407935)
 
 
 ## Table of Contents
