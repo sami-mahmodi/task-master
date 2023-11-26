@@ -31,7 +31,7 @@ const Home: React.FC = () => {
 <div className="  bg-slate-100 min-h-screen flex justify-center">
     <div className='w-1/2  p-24'>
 
-      <h1 className="text-3xl font-bold mb-12 text-center text-black">Pro Task</h1>
+      <h1 className="text-3xl font-bold mb-12 text-center text-black">Task Master</h1>
 
       <TodoForm addTodo={addTodo} />
       <TodoList todos={todos} deleteTodo={deleteTodo} />
